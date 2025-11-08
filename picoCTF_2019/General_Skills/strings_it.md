@@ -50,6 +50,7 @@ This challenge demonstrates how simple command-line tools like strings and grep 
 ## Tools
 
 strings command – Extracts readable text from binary files.
+
 grep command – Searches and filters text for specific patterns.
 
 ---
