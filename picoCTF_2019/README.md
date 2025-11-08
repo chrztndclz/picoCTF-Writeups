@@ -24,9 +24,9 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## General Skills
-**Challenges:** `0`  
-- picoCTF_2019/General_Skills/strings_it.md
-
+**Challenges:** `1`  
+- [strings_it](picoCTF_2019/General_Skills/strings_it.md)
+  
 ---
 
 ## Reverse Engineering
