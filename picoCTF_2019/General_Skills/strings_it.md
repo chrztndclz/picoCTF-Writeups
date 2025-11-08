@@ -57,7 +57,9 @@ grep command – Searches and filters text for specific patterns.
 ## References
 
 [GNU Coreutils Manual – strings](https://man7.org/linux/man-pages/man1/strings.1.html)
+
 [GNU Grep Manual – grep](https://man7.org/linux/man-pages/man1/grep.1.html)
+
 [picoCTF Official Website](https://picoctf.org)
 
 
