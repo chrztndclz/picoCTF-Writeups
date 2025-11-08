@@ -46,7 +46,7 @@ Your support motivates continued updates and future additions!
 
 ---
 
-## 📜 License
+## License
 
 This repository and all contained writeups are released under the **MIT License**.  
 Flags are partially or fully redacted to preserve the educational integrity of the picoCTF platform.
