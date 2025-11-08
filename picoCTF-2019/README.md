@@ -1,1 +1,1 @@
-picoCTF-2019
+picoCTF_2019
