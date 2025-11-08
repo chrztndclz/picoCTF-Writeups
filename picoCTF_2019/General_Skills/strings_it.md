@@ -33,7 +33,7 @@ You’ll see a large number of random strings printed on the screen. Searching m
 
 **Step 4:** Use the grep command to search specifically for lines containing “picoCTF”:
 
-<img width="650" height="44" alt="image" src="https://github.com/user-attachments/assets/f739dc4b-c130-43f9-9a4d-c92dc117288d" />
+<img width="666" height="44" alt="image" src="https://github.com/user-attachments/assets/f739dc4b-c130-43f9-9a4d-c92dc117288d" />
 
 ---
 
