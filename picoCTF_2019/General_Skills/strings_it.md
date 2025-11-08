@@ -27,15 +27,13 @@ Based on the hint, the challenge requires the use of the `strings` command.
 **Step 2:** Navigate to the file’s directory using the terminal.  
 **Step 3:** Run the `strings` command to read all printable text from the file:
 
-`strings strings`
-
 <img width="666" height="729" alt="image" src="https://github.com/user-attachments/assets/0528b16c-1675-4a38-86c4-36887f16e8ec" />
 
 You’ll see a large number of random strings printed on the screen. Searching manually would take too long, so we can use another command to filter the output.
 
 **Step 4:** Use the grep command to search specifically for lines containing “picoCTF”:
 
-`strings strings | grep picoCTF`
+<img width="650" height="44" alt="image" src="https://github.com/user-attachments/assets/f739dc4b-c130-43f9-9a4d-c92dc117288d" />
 
 ---
 
