@@ -2,7 +2,7 @@
 
 # picoCTF Writeups
 
-Welcome to my [picoCTF](https://play.picoctf.org/login) challenge writeups, created and maintained by [chrztndclz](https://play.picoctf.org/users/chrztndclz).  
+Welcome to my [picoCTF](https://play.picoctf.org/chrztndclz) challenge writeups, created and maintained by [chrztndclz](https://play.picoctf.org/users/chrztndclz).  
 These writeups are primarily a personal documentation of my learning process, but I hope they also help others understand the concepts and approaches behind each challenge.
 
 This repository will gradually include detailed, step-by-step analyses for multiple challenge years and categories — all flags are **redacted** to preserve the integrity of the competition.
