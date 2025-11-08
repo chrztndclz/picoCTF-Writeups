@@ -25,7 +25,7 @@ Each category includes the number of solved challenges and their corresponding f
 
 ## General Skills
 **Challenges:** `0`  
-- *(No files yet)*
+- picoCTF_2019/General_Skills/strings_it.md
 
 ---
 
