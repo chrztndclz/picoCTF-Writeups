@@ -29,6 +29,8 @@ Based on the hint, the challenge requires the use of the `strings` command.
 
 `strings strings`
 
+<img width="666" height="729" alt="image" src="https://github.com/user-attachments/assets/0528b16c-1675-4a38-86c4-36887f16e8ec" />
+
 You’ll see a large number of random strings printed on the screen. Searching manually would take too long, so we can use another command to filter the output.
 
 **Step 4:** Use the grep command to search specifically for lines containing “picoCTF”:
