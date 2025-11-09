@@ -1,8 +1,11 @@
 # Warmed Up
 
 **Platform:** picoCTF 2019
+
 **Author:** SANJAY C / DANNY TUNITIS  
+
 **Category:** General Skills  
+
 **Difficulty:** Easy
 
 ---
