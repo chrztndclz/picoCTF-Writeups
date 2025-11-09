@@ -82,6 +82,9 @@ Tools like CyberChef make such conversions quick and reliable, but knowing how t
 ## References
 
 [“Hexadecimal”](https://en.wikipedia.org/wiki/Hexadecimal?) 
+
 [“Decimal”](https://en.wikipedia.org/wiki/Decimal) 
+
 [“Base Conversion Method”](https://www.mathsisfun.com/base-conversion-method.html?) 
+
 [“CyberChef”](https://www.csnp.org/post/cyberchef-data-decoding-made-easy?) 
