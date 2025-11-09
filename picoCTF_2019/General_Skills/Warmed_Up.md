@@ -50,6 +50,7 @@ We can solve this using any base conversion tool or manually by calculating the 
 
 - Base: `10`
 
+<img width="955" height="697" alt="image" src="https://github.com/user-attachments/assets/a9e42347-1d34-4cea-8928-0f1ad036a88c" />
 
 **Step 7:** View the output.  
 
