@@ -38,7 +38,7 @@ You’ll see a large number of random strings printed on the screen. Searching m
 ---
 
 ## Flag
-picoCTF{5tRIng5_*REDACTED*_aee91}
+picoCTF{5tRIng5_'REDACTED'_aee91}
 
 ---
 
