@@ -65,7 +65,10 @@ picoCTF{6'REDACTED'}
 
 ## Reflection
 This challenge was a simple warm-up exercise that helped reinforce the concept of number base conversions.  
+
+
 It demonstrates the importance of understanding how different numeral systems work—especially when dealing with low-level programming, data representation, or cryptography.  
+
 Tools like CyberChef make such conversions quick and reliable, but knowing how to do them manually strengthens problem-solving fundamentals.
 
 ---
@@ -81,4 +84,4 @@ Tools like CyberChef make such conversions quick and reliable, but knowing how t
 [“Hexadecimal”](https://en.wikipedia.org/wiki/Hexadecimal?) 
 [“Decimal”](https://en.wikipedia.org/wiki/Decimal) 
 [“Base Conversion Method”](https://www.mathsisfun.com/base-conversion-method.html?) 
-[“CyberChef – Data decoding made easy”](https://www.csnp.org/post/cyberchef-data-decoding-made-easy?) 
+[“CyberChef”](https://www.csnp.org/post/cyberchef-data-decoding-made-easy?) 
