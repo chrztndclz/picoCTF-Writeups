@@ -24,9 +24,9 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## General Skills
-**Challenges:** `1`  
+**Challenges:** `2`  
 - [strings it](General_Skills/strings_it.md)
-- [Warmed Up](picoCTF_2019/General_Skills/Warmed_Up.md)
+- [Warmed Up](General_Skills/Warmed_Up.md)
   
 ---
 
