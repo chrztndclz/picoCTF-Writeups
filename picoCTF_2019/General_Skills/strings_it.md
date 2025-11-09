@@ -1,8 +1,11 @@
 # strings it
 
 **Platform:** picoCTF  
+
 **Author:** SANJAY C / DANNY TUNITIS  
+
 **Category:** General Skills  
+
 **Difficulty:** Easy  
 
 ---
