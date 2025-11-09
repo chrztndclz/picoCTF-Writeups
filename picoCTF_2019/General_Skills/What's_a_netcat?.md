@@ -8,7 +8,7 @@
 
 **Difficulty:** Easy
 
-**Tags: **
+**Tags:**
 #picoCTF_2019 
 #General_Skills 
 #Easy 
