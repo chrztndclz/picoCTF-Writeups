@@ -75,7 +75,7 @@ Tools like CyberChef make such conversions quick and reliable, but knowing how t
 
 ## Tools
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+CyberChef - A web tool for decoding, converting, and analyzing data using drag-and-drop recipes.
 
 ----
 
