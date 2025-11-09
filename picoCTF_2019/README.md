@@ -37,6 +37,6 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Web Exploitation
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `1`  
+- [logon](Web_Exploitation/logon.md)
 
