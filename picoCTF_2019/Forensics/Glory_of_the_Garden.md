@@ -46,7 +46,9 @@ Hex editors allow you to view and edit the **raw data** (in hexadecimal) of any 
 
 
 **Step 3:** Open the File in Hexedit
-`hexedit garden.jpg`
+
+<img width="677" height="52" alt="image" src="https://github.com/user-attachments/assets/32181698-34ec-4e3f-ba70-19533ce17ffa" />
+
 
 You’ll see a large grid of hexadecimal values on the left and corresponding ASCII text on the right.
 
