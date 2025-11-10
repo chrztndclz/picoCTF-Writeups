@@ -57,7 +57,7 @@ This prints a short help message showing the available flags on your installed `
 
 ## Flag
 
-picoCTF{nEtCat_'REDACTED'_284be8f7}
+picoCTF{nEtCat----------284be8f7}
 
 
 ---
