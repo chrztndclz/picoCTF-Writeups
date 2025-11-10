@@ -85,7 +85,7 @@ If the flag is partially visible or located deeper in the file:
 
 ## Flag
 
-picoCTF{more_than_m33ts_the_-----}
+picoCTF{more---------B2C}
 
 
 ---
