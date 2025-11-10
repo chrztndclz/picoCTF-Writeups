@@ -19,7 +19,7 @@ Each category includes the number of solved challenges and their corresponding f
 
 ## Forensics
 **Challenges:** `0`  
-- *(No files yet)*
+- [Glory of the Garden](Forensics/Glory_of_the_Garden.md)
 
 ---
 
