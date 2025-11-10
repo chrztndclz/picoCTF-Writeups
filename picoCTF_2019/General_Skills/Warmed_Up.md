@@ -69,7 +69,7 @@ We can solve this using any base conversion tool or manually by calculating the 
 ---
 
 ## Flag
-picoCTF{6'REDACTED'}
+picoCTF{6---------1}
 
 ---
 
