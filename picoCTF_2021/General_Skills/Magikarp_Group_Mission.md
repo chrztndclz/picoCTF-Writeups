@@ -1,26 +1,35 @@
 ## Magikarp Ground Mission
 
-**Platform:** 
+**Platform:** picoCTF 2021
 
-**Author:**   
+**Author:** SYREAL
 
-**Category:**  
+**Category:** General Skills
 
-**Difficulty:** 
+**Difficulty:** Easy
 
 Tags:
+#picoCTF_2021
+#General_Skills 
+#Easy 
 
 ---
 
 ## Description
+Do you know how to move between directories and read files in the shell? Start the container, ssh to it, and then ls once connected to begin.
+
+Additional details will be available after launching your challenge instance.
 
 ---
 
 ## Hints
+Finding a cheatsheet for bash would be really helpful!
 
 ---
 
 ## Analysis
+
+
 
 ---
 
