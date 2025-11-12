@@ -60,8 +60,6 @@ You’ll notice a suspicious “License” field containing a Base64-encoded str
 
 ## Flag
 
-picoCTF{the_m3tadata_1s_modified}
-
 picoCTF{the----------fied}
 
 ---
