@@ -72,7 +72,7 @@ strings fang-of-haynekhtnamet
 ---
 
 ## Flag
-picoCTF{l3v3l_up!_t4k3_4_r35t!_a00cae70}
+picoCTF{l3v----------e70}
 
 ---
 
