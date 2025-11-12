@@ -120,5 +120,7 @@ It reinforces that understanding the basics of the command line is essential in 
 ## References
 
 [OpenSSH Manual](https://man.openbsd.org/ssh)
+
 [GNU Coreutils Manual](https://www.gnu.org/software/coreutils/manual/coreutils.html)
+
 [cd command](https://man7.org/linux/man-pages/man1/bash.1.html)
