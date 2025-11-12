@@ -95,7 +95,6 @@ Output: 0b24fc4f}
 
 ## Flag
 
-picoCTF{xxsh_0ut_0f_//4t3r_0b24fc4f}
 picoCTF{xxs---------c4f}
 
 ---
