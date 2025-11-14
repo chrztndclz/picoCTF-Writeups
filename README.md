@@ -1,4 +1,4 @@
-![picoCTF Logo](picoctf_logo.png)
+<img width="560" height="313" alt="image" src="https://github.com/user-attachments/assets/5a68f94d-3261-4806-8d3d-941738f30e30" />
 
 # picoCTF Writeups
 
