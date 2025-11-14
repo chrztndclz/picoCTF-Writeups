@@ -18,11 +18,10 @@ This repository will gradually include detailed, step-by-step analyses for multi
 
 ## No Spoilers Policy
 
-All writeups contain thorough explanations of the **analysis**, **methodology**, and **tools used**,  
-but **flags are never shown in full**.
+All writeups contain thorough explanations of the **analysis**, **methodology**, and **tools used**, but **flags are never shown in full**.
 
 Flags are displayed in one of the following redacted formats:
-picoCTF{<REDACTED>}
+
 picoCTF{abc---xyz}
 
 This ensures fair play and compliance with picoCTF’s ethical guidelines.
