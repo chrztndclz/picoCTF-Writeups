@@ -47,7 +47,6 @@ The flag will be printed directly onto the terminal.
 
 ## Flag
 
-picoCTF{s4n1ty_v3r1f13d_2aa22101}
 picoCTF{s4n--------01}
 
 ---
@@ -60,10 +59,12 @@ This challenge reinforces basic command-line usage and file manipulation. It hig
 ---
 
 ## Tools
-- **wget** — to download the file
-- **cat** — to display file contents
-- **Terminal** — basic Linux command-line environment
+**wget** — to download the file
+**cat** — to display file contents
+**Terminal** — basic Linux command-line environment
 
 ----
 
 ## References
+
+[cat manual page](https://man7.org/linux/man-pages/man1/cat.1.html)
