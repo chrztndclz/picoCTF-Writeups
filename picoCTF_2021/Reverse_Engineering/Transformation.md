@@ -45,7 +45,8 @@ First, you must access the provided file (usually named enc) to get the encrypte
 Start the Python interpreter and define the encoded string. Then, execute the single-line decoder. 
 
 
-<img width="1242" height="183" alt="image" src="https://github.com/user-attachments/assets/f6f1c30d-3d23-4c9b-872a-b0a69e61dfc9" />
+<img width="1257" height="212" alt="image" src="https://github.com/user-attachments/assets/1b61ec44-fc96-40a4-9a63-77f90424ec24" />
+
 
 
 How the Decoding Line WorksThe expression [chr(ord(c) >> 8) + chr(ord(c) & 0xFF) for c in enc_str] iterates through the packed string (enc_str) and performs two operations on the integer value of each Unicode character ord(c)):
@@ -60,7 +61,7 @@ Step 4: **Execute the Script** Running the script reveals the flag.
 
 ## Flag
 
-picoCTF{16--------f7}
+picoCTF{16--------b93}
 
 ---
 
