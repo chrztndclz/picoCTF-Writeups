@@ -44,7 +44,9 @@ First, you must access the provided file (usually named enc) to get the encrypte
 **Step 3:** Implement the Inverse Logic in Python
 Start the Python interpreter and define the encoded string. Then, execute the single-line decoder. 
 
+
 <img width="1242" height="183" alt="image" src="https://github.com/user-attachments/assets/f6f1c30d-3d23-4c9b-872a-b0a69e61dfc9" />
+
 
 How the Decoding Line WorksThe expression [chr(ord(c) >> 8) + chr(ord(c) & 0xFF) for c in enc_str] iterates through the packed string (enc_str) and performs two operations on the integer value of each Unicode character ord(c)):
 - ord(c) >> 8 (Extracts First Character):This is the inverse of << 8. The Right Bit Shift moves the 8 bits of the first original character back to the lowest position.
@@ -58,7 +60,6 @@ Step 4: **Execute the Script** Running the script reveals the flag.
 
 ## Flag
 
-picoCTF{16_bits_inst34d_of_8_e141a0f7}
 picoCTF{16--------f7}
 
 ---
@@ -80,4 +81,5 @@ Bitwise Operators: >> (Right Shift) and & (Bitwise AND)
 ## References
 
 [Python](https://en.wikipedia.org/wiki/Python)
+
 [Bitwise Operators](https://en.wikipedia.org/wiki/Bitwise_operation)
