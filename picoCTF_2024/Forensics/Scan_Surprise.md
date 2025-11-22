@@ -70,7 +70,6 @@ This challenge provides an image file that contains a QR code instead of a text-
 
 ## Flag
 
-picoCTF{p33k_@_b00_7843f77c}
 picoCTF{p33---------77c}
 
 ---
