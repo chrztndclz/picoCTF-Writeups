@@ -13,6 +13,9 @@ This repository will gradually include detailed, step-by-step analyses for multi
 
 - [picoCTF 2019 Challenges](picoCTF_2019/README.md)
 - [picoCTF 2021 Challenges](picoCTF_2021/README.md)
+- [picoCTF 2022 Challenges](picoCTF_2022/README.md)
+- [picoCTF 2023 Challenges](picoCTF_2023/README.md)
+- [picoCTF 2024 Challenges](picoCTF_2024/README.md)
 
 ---
 
