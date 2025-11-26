@@ -49,6 +49,7 @@ Binary multiplication *
 
 The server gives two fixed binary numbers and requires solving each operation step-by-step. The final result must be converted to hexadecimal to obtain the flag. The key challenge is accuracy — any mistake forces you to retry.
 
+
 ---
 
 ## Methodology
@@ -65,10 +66,8 @@ nc titan.picoctf.net 57884
 
 '&' uses boolen logic 
 
-  1 0 1 1 1 1 0 1
-& 0 1 0 0 1 0 0 0
------------------
-  0 0 0 0 1 0 0 0
+  10111101 & 01001000
+= 00001000
 
 
 <img width="434" height="234" alt="image" src="https://github.com/user-attachments/assets/52bb4f4f-5f93-4b4c-bc33-761792942e9d" />
@@ -105,10 +104,8 @@ nc titan.picoctf.net 57884
 
 **Step 6:** Binary Number 1 | Binary Number 2 
 
-10111101
-01001000
----------
-11111101
+10111101 | 01001000
+= 11111101
 
 
 <img width="478" height="154" alt="image" src="https://github.com/user-attachments/assets/78a0cdb2-b2d0-4fb9-9bc2-42112fa2d838" />
