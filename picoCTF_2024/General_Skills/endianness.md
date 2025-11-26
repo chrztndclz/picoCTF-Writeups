@@ -53,26 +53,26 @@ nc titan.picoctf.net 62405
 
 
 **Step 2:** Convert the characters 'izqqr' into hex using cyberchef
-
+`
 i - 69
 z - 7a
 q - 71
 q - 71
 r - 72
-
+`
 <img width="866" height="250" alt="image" src="https://github.com/user-attachments/assets/e7683a2c-85c7-4521-8b89-03c5bf9d8fc1" />
 
 
 **Step 3:** Little Endian reverse the byte order.
 
 izqqr - rqqzi
-
+`
 r - 72
 q - 71
 q - 71
 z - 7a
 i - 69
-
+`
 `7271717a69`
 
 <img width="654" height="160" alt="image" src="https://github.com/user-attachments/assets/0ca8b360-c865-41d8-9636-20b150970514" />
