@@ -89,7 +89,6 @@ git cat-file -p fca28bbf8dde2f49246166ae6512a1046fc4cbc3
 
 ## Flag
 
-picoCTF{s@n1t1z3_cf09a485}
 picoCTF{s@n--------85}
 
 ---
