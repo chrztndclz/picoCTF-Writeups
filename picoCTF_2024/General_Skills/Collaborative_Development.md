@@ -53,8 +53,9 @@ This challenge tested basic Git workflows, including inspecting branches, mergin
 
 **Step 4:** Add a test username and email
 
-`git config user.name "test"
-git config user.email "test@test.com"`
+`git config user.name "test"`
+
+`git config user.email "test@test.com"`
 
 <img width="766" height="103" alt="image" src="https://github.com/user-attachments/assets/2787811b-5129-4f21-8473-723d925c49fd" />
 
@@ -78,8 +79,9 @@ git config user.email "test@test.com"`
 
 **Step 8:** Add and commit the flag.py ofr part 1
 
-`git add flag.py
-git commit`
+`git add flag.py`
+
+`git commit`
 
 <img width="771" height="114" alt="image" src="https://github.com/user-attachments/assets/c19f5d5d-a125-4798-b429-6605c9a4af65" />
 
@@ -91,8 +93,9 @@ git commit`
 
 **Step 10:** Add and commit the flag.py for part 2
 
-`git add flag.py
-git commit`
+`git add flag.py`
+
+`git commit`
 
 <img width="772" height="111" alt="image" src="https://github.com/user-attachments/assets/1783ad79-5ee1-4518-bf30-7eb2442a82b3" />
 
