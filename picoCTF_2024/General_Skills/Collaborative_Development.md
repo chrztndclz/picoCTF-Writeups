@@ -53,49 +53,52 @@ This challenge tested basic Git workflows, including inspecting branches, mergin
 
 **Step 4:** Add a test username and email
 
-git config user.name "test"
-git config user.email "test@test.com"
+`git config user.name "test"
+git config user.email "test@test.com"`
 
 <img width="766" height="103" alt="image" src="https://github.com/user-attachments/assets/2787811b-5129-4f21-8473-723d925c49fd" />
 
 **Step 5:**
 
-git branch -a
+`git branch -a`
 
 <img width="775" height="127" alt="image" src="https://github.com/user-attachments/assets/c8902a64-58f0-4700-ab1a-b472fd2a60ed" />
 
 **Step 6:** Checkout main
 
-git checkout main
+`git checkout main`
 
 <img width="770" height="77" alt="image" src="https://github.com/user-attachments/assets/30718e64-4e13-40d0-b9fe-48d3139cb71c" />
 
 **Step 7:**  Merge part 1
 
-git merge feature/part-1
+`git merge feature/part-1`
 
 <img width="771" height="128" alt="image" src="https://github.com/user-attachments/assets/ad28f3b7-1bb0-4413-ab9a-de5550aa663d" />
 
 **Step 8:** Add and commit the flag.py ofr part 1
 
-git add flag.py
-git commit
+`git add flag.py
+git commit`
 
 <img width="771" height="114" alt="image" src="https://github.com/user-attachments/assets/c19f5d5d-a125-4798-b429-6605c9a4af65" />
 
 **Step 9:** Merge part 2
 
-git merge feature/part-2
+`git merge feature/part-2`
 
 <img width="781" height="111" alt="image" src="https://github.com/user-attachments/assets/bc68a732-f677-4552-b045-cd855b4f75cf" />
 
 **Step 10:** Add and commit the flag.py for part 2
 
+`git add flag.py
+git commit`
+
 <img width="772" height="111" alt="image" src="https://github.com/user-attachments/assets/1783ad79-5ee1-4518-bf30-7eb2442a82b3" />
 
 **Step 11:** Merge part 3
 
-git merge feature/part-3
+`git merge feature/part-3`
 
 <img width="777" height="112" alt="image" src="https://github.com/user-attachments/assets/e41d3035-da05-4a58-bc34-b6e1ea5b5cb8" />
 
