@@ -66,7 +66,9 @@ Step 5: Check the Git commit logs
 
 The file .git/logs/HEAD is a log that tracks movements of the HEAD pointer—this includes every commit you check out or create.
 
-<img width="1413" height="267" alt="image" src="https://github.com/user-attachments/assets/e7c8e18b-9854-48e8-ae63-c5a162f6fd44" />
+
+<img width="1226" height="274" alt="image" src="https://github.com/user-attachments/assets/c6d80468-3201-4327-914a-ff0bf0590f6f" />
+
 
 Step 6: Retrieve the Flag 
 
