@@ -29,6 +29,7 @@ nc titan.picoctf.net 62405
 ## Hints
 - You might want to check the ASCII table to first find the hexadecimal representation of characters before finding the endianness.
 - Read more about how endianness here
+  
   Little endian = reverse the byte order.
 
   Big endian = normal left-to-right byte order.
