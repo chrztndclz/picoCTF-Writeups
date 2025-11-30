@@ -13,7 +13,9 @@ Each category includes the number of solved challenges and their corresponding f
 
 ## Cryptography
 **Challenges:** `0`  
-- *(No files yet)*
+- [13](Cryptography/13.md)
+- [The Numbers](Cryptography/The_Numbers.md)
+
 
 ---
 
