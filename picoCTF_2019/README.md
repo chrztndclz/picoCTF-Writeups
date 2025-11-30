@@ -31,6 +31,9 @@ Each category includes the number of solved challenges and their corresponding f
 - [Warmed Up](General_Skills/Warmed_Up.md)
 - [What's a netcat?](General_Skills/What's_a_netcat?.md)
 - [Lets Warm Up](General_Skills/Lets_Warm_Up.md)
+- [2warm](General_Skills/2warm.md)
+- [Bases](General_Skills/Bases.md)
+- [First_Grep](General_Skills/First_Grep.md)
   
 ---
 
