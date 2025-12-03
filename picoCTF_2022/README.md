@@ -18,25 +18,27 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Forensics
-**Challenges:** `1`  
+**Challenges:** `0`  
 - *(No files yet)*
 
 ---
 
 ## General Skills
-**Challenges:** `4`  
+**Challenges:** `0`  
 - *(No files yet)*
   
 ---
 
 ## Reverse Engineering
-**Challenges:** `1`  
+**Challenges:** `0`  
 - *(No files yet)*
 
 ---
 
 ## Web Exploitation
 **Challenges:** `3`  
-- *(No files yet)*
+- [Includes](Web_Exploitation/Includes.md)
+- [Inspect HTML](Web_Exploitation/Inspect_HTML.md)
+- [Local Authority](Web_Exploitation/Local_Authority.md)
 
 
