@@ -12,19 +12,19 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Cryptography
-**Challenges:** `0`  
+**Challenges:** `1`  
 - [Mod 26](Cryptography/Mod_26.md)
 
 ---
 
 ## Forensics
-**Challenges:** `0`  
+**Challenges:** `1`  
 - [information](Forensics/information.md)
 
 ---
 
 ## General Skills
-**Challenges:** `0`  
+**Challenges:** `7`  
 - [Magikarp Group Mission](General_Skills/Magikarp_Group_Mission.md)
 - [Nice netcat](General_Skills/Nice_netcat.md)
 - [Obedient Cat](General_Skills/Obedient_Cat.md)
@@ -36,13 +36,13 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Reverse Engineering
-**Challenges:** `0`  
+**Challenges:** `1`  
 - [Transformation](Reverse_Engineering/Transformation.md)
 
 ---
 
 ## Web Exploitation
-**Challenges:** `0`  
+**Challenges:** `3`  
 - [Cookies](Web_Exploitation/Cookies.md)
 - [Get_aHEAD](Web_Exploitation/Get_aHEAD.md)
 - [Scavenger Hunt](Web_Exploitation/Scavenger_Hunt.md)
