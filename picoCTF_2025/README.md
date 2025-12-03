@@ -37,7 +37,7 @@ Each category includes the number of solved challenges and their corresponding f
 
 ## Web Exploitation
 **Challenges:** `2`  
-- [Cookie Monster Secret Recipe](Web_Exploitaton/Cookie_Monster_Secret_Recipe.md)
+- [Cookie Monster Secret Recipe](Web_Exploitation/Cookie_Monster_Secret_Recipe.md)
 - [SSTI1](Web_Exploitation/SSTI1.md)
 
 
