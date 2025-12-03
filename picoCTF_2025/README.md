@@ -13,7 +13,7 @@ Each category includes the number of solved challenges and their corresponding f
 
 ## Cryptography
 **Challenges:** `1`  
-- [hashcrack](Cryptography/hashcrack.md)
+- [hashrack](Cryptography/hashrack.md)
 
 ---
 
