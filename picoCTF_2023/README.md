@@ -24,8 +24,8 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## General Skills
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `1`  
+- [repetitions](General_Skills/repetitions.md)
   
 ---
 
