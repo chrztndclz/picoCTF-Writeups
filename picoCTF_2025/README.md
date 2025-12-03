@@ -6,26 +6,26 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Binary Exploitation
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `1`  
+- [PIE TIME](Binary_Exploitation/PIE_TIME.md)
 
 ---
 
 ## Cryptography
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `1`  
+- [hashcrack](Cryptography/hashcrack.md)
 
 ---
 
 ## Forensics
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `1`  
+- [RED](Forensics/RED.md)
 
 ---
 
 ## General Skills
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `1`  
+- [FANTASY CTF](General_Skills/FANTASY_CTF.md)
   
 ---
 
@@ -36,8 +36,9 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Web Exploitation
-**Challenges:** `0`  
-- *(No files yet)*
+**Challenges:** `2`  
+- [Cookie Monster Secret Recipe](Web_Exploitaton/Cookie_Monster_Secret_Recipe.md)
+- [SSTI1](Web_Exploitation/SSTI1.md)
 
 
 
