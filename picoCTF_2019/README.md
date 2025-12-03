@@ -12,7 +12,7 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Cryptography
-**Challenges:** `0`  
+**Challenges:** `2`  
 - [13](Cryptography/13.md)
 - [The Numbers](Cryptography/The_Numbers.md)
 
@@ -25,7 +25,7 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## General Skills
-**Challenges:** `4`  
+**Challenges:** `7`  
 - [strings it](General_Skills/strings_it.md)
 - [Warmed Up](General_Skills/Warmed_Up.md)
 - [What's a netcat?](General_Skills/What's_a_netcat?.md)
@@ -43,7 +43,7 @@ Each category includes the number of solved challenges and their corresponding f
 ---
 
 ## Web Exploitation
-**Challenges:** `3`  
+**Challenges:** `4`  
 - [logon](Web_Exploitation/logon.md)
 - [Insp3ct0r](Web_Exploitation/Insp3ct0r.md)
 - [where are the robots](Web_Exploitation/where_are_the_robots.md)
